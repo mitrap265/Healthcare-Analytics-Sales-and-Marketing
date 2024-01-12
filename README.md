@@ -1,4 +1,4 @@
-# Healthcare-Sales-and-marketing
+# Healthcare-Sales-and-Marketing
 
 Refer to 
 ER Diagram - ER.pdf
